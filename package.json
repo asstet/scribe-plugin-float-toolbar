@@ -1,0 +1,25 @@
+{
+  "name": "scribe-plugin-float-toolbar",
+  "version": "1.0.0",
+  "description": "Scribe plugin which makes toolbar floated on selection",
+  "main": "src/scribe-plugin-float-toolbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asstet/scribe-plugin-float-toolbar.git"
+  },
+  "keywords": [
+    "scribe",
+    "scribe-plugin",
+    "plugin",
+    "toolbar"
+  ],
+  "author": "Nikita Komarkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asstet/scribe-plugin-float-toolbar/issues"
+  },
+  "homepage": "https://github.com/asstet/scribe-plugin-float-toolbar#readme"
+}
